@@ -46,7 +46,7 @@ Evoluir para **Full-stack**.
 [LinkedIn](https://www.linkedin.com/in/joseismaelcorreia/) • **ismael1995internacional@gmail.com**
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ismael1995Developer&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael1995Developer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ismael1995Developer&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael1995Developer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=2" />
 </div>
 
