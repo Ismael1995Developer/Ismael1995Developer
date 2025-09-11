@@ -1,4 +1,4 @@
-<h1 align="left">José Ismael • Desenvolvedor Front-end em formação (React/Next.js)</h1>
+<h1 align="left">José Ismael • Desenvolvedor Front-end em formação (React/Next.js)</h1
 
 **Analista de desenvolvimento Sistemas**, desenvolvedor **Front-end em formação** com foco em **React** e **Next.js**.  
 Atualmente **cursando Engenharia de Software (FSG – 3º semestre)**.
