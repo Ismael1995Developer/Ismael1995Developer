@@ -28,7 +28,8 @@ Atualmente **cursando Engenharia de Software (FSG – 3º semestre)**.
 ### 🛠️ Back-end (em estudo)
 Evoluir para **Full-stack**.
 
-- **Framework:** Node.js • Express.js
+- **Framework:** Node.js
+- **Bivlioteca** Express.js
 - **Banco de dados:** MongoDB
 - **ORM:** Prisma
 - **DevOps/Testes (base):** Docker • Jest
