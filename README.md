@@ -49,14 +49,14 @@ Evoluir para **Full-stack**.
 
 ### 📊 Progresso
 
-```
-Front-end (React / Next.js)  ████████████████████░░  88%
-TypeScript                   ████████████████░░░░░░  72%
-TailwindCSS                  ████████████████████░░  88%
-Node.js / Express            ████████████░░░░░░░░░░  55%
-MongoDB / Prisma             ██████████░░░░░░░░░░░░  45%
-Docker                       ████████░░░░░░░░░░░░░░  35%
-```
+| Tecnologia | Nível |
+|------------|-------|
+| **Front-end** (React / Next.js) | ![](https://geps.dev/progress/88) |
+| **TypeScript** | ![](https://geps.dev/progress/72) |
+| **TailwindCSS** | ![](https://geps.dev/progress/88) |
+| **Node.js / Express** | ![](https://geps.dev/progress/55) |
+| **MongoDB / Prisma** | ![](https://geps.dev/progress/45) |
+| **Docker** | ![](https://geps.dev/progress/35) |
 
 ---
 
